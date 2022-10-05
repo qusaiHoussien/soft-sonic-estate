@@ -1,0 +1,82 @@
+
+.top-96{
+    top: 96%;
+}
+
+.left-25{
+    left: 25%;
+}
+.top--5{
+    top: -5%;
+}
+.top-35{
+    top: 35%;
+}
+.top-92{
+    top:92%
+}
+.left-35{
+    left: 35%;
+}
+.w-44{
+    width: 44%;
+}
+.w-30{
+    width: 30%;
+}
+
+.left-32{
+    left:32%;
+
+}
+
+.mt-20{
+    margin-top: 20%;
+}
+
+.h-800{
+    height: 800px;
+}
+
+.h-300{
+    height: 300px;
+}
+.h-15{
+    height: 15px;
+}               
+.h-40{
+    height: 40px;
+}
+
+
+.ps-75{
+padding-left: 75%;
+}
+
+.overflow-y{
+    overflow-y: scroll  ;
+}
+
+.w-15{
+    width: 15%;
+}
+
+.h-450{
+    height: 450px;
+}
+.h-2{
+    height: 2px;
+}
+.h-3{
+    height: 3px;
+}
+.w-45   {
+    width: 45px;
+}
+
+.scrolling-wrapper{
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+
+}
