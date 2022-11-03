@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Estate/static/css/main.c8f04f58.css",
+    "main.js": "/Estate/static/js/main.e3368e2e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Estate/static/js/787.28cb0dcd.chunk.js",
+    "static/media/firstslide.jpeg": "/Estate/static/media/firstslide.d483853701f9650fb37b.jpeg",
+    "index.html": "/Estate/index.html",
+    "main.c8f04f58.css.map": "/Estate/static/css/main.c8f04f58.css.map",
+    "main.e3368e2e.js.map": "/Estate/static/js/main.e3368e2e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Estate/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f04f58.css",
+    "static/js/main.e3368e2e.js"
+  ]
+}
