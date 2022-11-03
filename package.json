@@ -1,6 +1,10 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+    "engines": {
+    "npm": "8.15.0",// here put your version
+    "node": "16.17.1" // here put your version
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
