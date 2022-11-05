@@ -5,7 +5,9 @@ import Layout from "./layout/Layout";
 function App() {
   return (
     <div>
-<h1>gggggggg</h1>
+      <Layout>
+        <AppRoutes />
+      </Layout>
     </div>
   );
 }
