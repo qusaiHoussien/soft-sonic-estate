@@ -9,11 +9,11 @@ export default function NavMenu() {
         <a href="Home" className="navbar-brand  pt-3">
           <ImageLable
             ImageClassName="rounded"
-            imgSrc="./logo512.png"
+            imgSrc="./SoftSonic logo-small.png"
             TextClassName="h4 text-primary"
             ImgWidth={50}
             ImgHeight={50}
-            Text="oswatech"
+            Text=""
           />
         </a>
         <button
