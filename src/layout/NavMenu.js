@@ -72,7 +72,7 @@ export default function NavMenu() {
                   href="Login"
                   className="nav-link btn btn-outline-primary ms-4 me-2"
                 >
-                  LOG IN
+                  {"LOG IN "}
                 </a>
               </li>
               <li className="nav-item">
