@@ -29,7 +29,7 @@ export default function Footer() {
           <div className="row">
             {/**first list */}
             <div className="col mt-md-0 mt-3">
-              <h6 className="  ">OswaTech</h6>
+              <h6 className="  ">SoftSonic</h6>
               <div className="row w-45 h-3 ps-5 mb-2 ms-1 bg-light"></div>
               <p className="text-small-emphasis">
                 the most beautiful exclusive
