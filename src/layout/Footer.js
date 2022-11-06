@@ -1,5 +1,6 @@
 import React from "react";
 import { Button } from "react-bootstrap";
+import ImageLable from "../components/ImageLabel";
 
 export default function Footer() {
   return (
