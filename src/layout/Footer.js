@@ -29,7 +29,14 @@ export default function Footer() {
           <div className="row">
             {/**first list */}
             <div className="col mt-md-0 mt-3">
-              <h6 className="  ">SoftSonic</h6>
+              <ImageLable
+            ImageClassName="rounded"
+            imgSrc="./SoftSonic logo-small.png"
+            TextClassName="h4 text-primary"
+            ImgWidth={50}
+            ImgHeight={50}
+            Text=""
+          />
               <div className="row w-45 h-3 ps-5 mb-2 ms-1 bg-light"></div>
               <p className="text-small-emphasis">
                 the most beautiful exclusive
