@@ -99,7 +99,7 @@ export default function HomesInRentPage(props) {
         {/**loop for show all homes in array */}
         {homearray.map((item) => (
           <>
-            <div className="col">
+            <div className="col-md">
               {ShowHomeCardInRentPage(item)} {IncreaseCounter()}
             </div>
 
