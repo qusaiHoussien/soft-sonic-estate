@@ -9,23 +9,23 @@ export default function search() {
         <input type="text" placeholder="Location" className="form-control" />
       </div>
       {/**selects  */}
-      <FormSelect className="col  ">
+      <FormSelect className="col-12 col-md  ">
         <option value="ForRent">For Rent</option>
       </FormSelect>
-      <FormSelect className="col ">
+      <FormSelect className="col-12 col-md ">
         <option value="PriceRange">Price</option>
       </FormSelect>
-      <FormSelect className="col ">
+      <FormSelect className="col-12 col-md ">
         <option value="Beds">Beds</option>
       </FormSelect>
-      <FormSelect className="col">
+      <FormSelect className="col-12 col-md">
         <option value="MoveDate">Move Date</option>
       </FormSelect>
-      <FormSelect className="col">
+      <FormSelect className="col-12 col-md">
         <option value="More">More</option>
       </FormSelect>
-      <div className="col"></div>
-      <Button className="col btn btn-sm btn-primary">
+      <div className="col-12 col-md"></div>
+      <Button className="col-12 col-md btn btn-sm btn-primary">
         <span className="fs-6">Search</span>
       </Button>
     </div>
